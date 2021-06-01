@@ -1,0 +1,14 @@
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.exe.config
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.exe
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.pdb
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP4.csprojAssemblyReference.cache
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP4.csproj.CoreCompileInputs.cache
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.exe
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.pdb
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\bin\Debug\CAI - TP5.exe.config
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\bin\Debug\CAI - TP5.exe
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\bin\Debug\CAI - TP5.pdb
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\obj\Debug\CAI - TP4.csproj.AssemblyReference.cache
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\obj\Debug\CAI - TP4.csproj.CoreCompileInputs.cache
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\obj\Debug\CAI - TP5.exe
+D:\Facultad\CAI 2021\TP\TP4\V. 24.5.21 N - FINAL\CAI-TP4\obj\Debug\CAI - TP5.pdb

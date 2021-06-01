@@ -1,0 +1,7 @@
+1 - Supuesto de que ya está logueado. 
+2 - Supuesto de que es un estudiante de la carrera de sistemas.
+3 - Supuesto de que los números de registro válidos, a modo de ejemplo, van del 10.000 al 10.025. 
+4 - Supuesto de que las materias están en el rango de 301-312
+5 - Supuesto de que hay dos cursos por materia.
+6 - Supuesto de que todos los alumnos se encuentran en la misma instancia de la carrera y por ende, solo podrán anotarse a las materias disponibles. 
+7 - Supuesto de que es una solicitud de inscripción y por lo tanto, luego de la misma, se validarán los datos ingresados. 

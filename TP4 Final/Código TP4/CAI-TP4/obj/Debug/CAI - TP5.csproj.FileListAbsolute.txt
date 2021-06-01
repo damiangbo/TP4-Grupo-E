@@ -1,0 +1,7 @@
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.exe.config
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.exe
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\bin\Debug\CAI - TP5.pdb
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.csprojAssemblyReference.cache
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.csproj.CoreCompileInputs.cache
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.exe
+C:\Users\PaulaTobares\Source\Repos\CAI---TP5\obj\Debug\CAI - TP5.pdb
