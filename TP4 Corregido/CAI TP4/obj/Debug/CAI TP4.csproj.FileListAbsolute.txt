@@ -1,7 +1,0 @@
-C:\Users\marin\source\repos\CAI TP4\bin\Debug\CAI TP4.exe.config
-C:\Users\marin\source\repos\CAI TP4\bin\Debug\CAI TP4.exe
-C:\Users\marin\source\repos\CAI TP4\bin\Debug\CAI TP4.pdb
-C:\Users\marin\source\repos\CAI TP4\obj\Debug\CAI TP4.csproj.AssemblyReference.cache
-C:\Users\marin\source\repos\CAI TP4\obj\Debug\CAI TP4.csproj.CoreCompileInputs.cache
-C:\Users\marin\source\repos\CAI TP4\obj\Debug\CAI TP4.exe
-C:\Users\marin\source\repos\CAI TP4\obj\Debug\CAI TP4.pdb
